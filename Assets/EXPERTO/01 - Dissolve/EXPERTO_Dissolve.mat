@@ -36,7 +36,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _DEBUG: 0
-    - _Disolve: 5
+    - _Disolve: 0
     - _NoiseScale: 50
     - _NoiseStrength: 5
     - _QueueControl: 0
